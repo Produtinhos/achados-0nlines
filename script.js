@@ -56,12 +56,12 @@ const products = [
   link: "https://s.shopee.com.br/4VbtaVVGrE"
 },
   {
-    image: "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=85",
+    image: "https://down-bs-br.img.susercontent.com/sg-11134201-825a1-mr8h8oeqo4r057.webp",
     category: "Eletrônicos",
-    name: "Fone de Ouvido Sem Fio",
+    name: " Fones De Ouvido TWS Sleep Fone Sem Fio Bluetooth Display Led Hifi Estéreo Cancelamento De Ruído Esportivo",
     description: "Design compacto e confortável para aproveitar músicas e chamadas no dia a dia.",
-    price: "R$ 59,90",
-    link: "https://shopee.com.br/"
+    price: "menos de R$ 30,00",
+    link: "https://s.shopee.com.br/6Ak7aoxbyu"
   },
   {
     image: "https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=900&q=85",
