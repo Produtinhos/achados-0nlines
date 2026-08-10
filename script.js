@@ -8,6 +8,14 @@ const products = [
     link: "https://shopee.com.br/"
   },
   {
+    image: "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-lq97ra5vs0fbc7.webp",
+    category: "Eletrônicos",
+    name: "Carregador Portátil Pineng Power Bank 10.000mAh",
+    description: "Carregue seu celular, tablet ou qualquer aparelho que possua entrada USB. Com 10.000mAh, é uma opção prática para o dia a dia.",
+    price: "R$ 24,88",
+    link: "https://s.shopee.com.br/20uYMyNGgj"
+  },
+  {
     image: "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=85",
     category: "Eletrônicos",
     name: "Fone de Ouvido Sem Fio",
