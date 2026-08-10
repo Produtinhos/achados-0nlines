@@ -56,6 +56,14 @@ const products = [
   link: "https://s.shopee.com.br/8pksiXAFHn"
 },
   {
+    image: "https://down-br.img.susercontent.com/file/sg-11134201-825a9-mqro4vjr5jbf9a@resize_w450_nl.webp",
+  category: "Cozinha",
+  name: "Jogo de Cozinha Kit 5/12 Peças de Silicone Utensílios e Copo Suporte para Cozinha Cabo de Madeira",
+  description: "Kit Completo de Utensílios para Cozinha em Silicone que não danificam suas panelas e trazem total beleza para sua cozinha, realmente a qualidade é incrível. O cabo é bem rígido para ter segurança e praticidade no manuseio e preparo de receitas. Suportam altas temperaturas até 230ºC. Fácil de limpar e guardar. Conjunto excelente para o seu dia a dia.",
+  price: "R$ 37,39",
+  link: "https://s.shopee.com.br/gPB0TdhqU"
+},
+  {
   image: "https://down-zl-br.img.susercontent.com/br-11134207-7r98o-m5ar1tw0vjv4ec.webp",
   category: "Feminino",
   name: "Calça Pantalona Feminina Wide Leg Cintura Alta Tecido Crepe Dunas P ao GG Disponível no Linho",
