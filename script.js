@@ -24,6 +24,14 @@ const products = [
     link: "https://s.shopee.com.br/20uYMyNGgj"
   },
   {
+    image: "https://down-tx-br.img.susercontent.com/sg-11134201-824gf-mf8cvs3kgwela4.webp",
+  category: "Eletrônicos",
+  name: "Fone de ouvido Bluetooth Sem Fio Headphone Bluetooth Recarregável P9 Air Top Casual Esportivo",
+  description: "olhe os feedback,muita qualidade",
+  price: "R$ 24,00",
+  link: "https://s.shopee.com.br/1121QUlDpD"
+},
+  {
   image: "https://down-br.img.susercontent.com/file/br-11134207-820mh-mquzqdrgfxmp8f@resize_w450_nl.webp",
   category: "Casa",
   name: "Kit Prateleira Industrial Madeira Mão Francesa Invertida Nicho Multiuso Parede Natural Envelhecida",
