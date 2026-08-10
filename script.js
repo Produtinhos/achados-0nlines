@@ -32,6 +32,15 @@ const products = [
   link: "https://s.shopee.com.br/1121L1CdmN"
   },
   {
+    image: "https://down-br.img.susercontent.com/file/br-11134207-820lb-moghvd48i29y79@resize_w450_nl.webp",
+  category: "Casa",
+  name: "Tapete macio de grande dimensão 2m*3m, lavável a máquina, antiderrapante, sem pelos",
+  description: "Este modelo possui uma superfície anti-manchas, que permite a formação de gotículas de água sobre o líquido, facilitando a limpeza. O tecido é durável, não desbota e não perde pelos, sendo adequado para lavagem em máquina.",
+  price: "R$ 65,00",
+  link: "https://s.shopee.com.br/904IwHmf0j"
+},
+
+  {
     image: "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=85",
     category: "Eletrônicos",
     name: "Fone de Ouvido Sem Fio",
