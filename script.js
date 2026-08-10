@@ -65,7 +65,7 @@ const products = [
   }
 ];
 
-const categories = ["Todos", "Casa", "Eletrônicos", "Utilidades", "Masculino", "Feminino"];
+const categories = ["Todos", "Casa", "Cozinha", "Eletrônicos", "Utilidades", "Masculino", "Feminino"];
 let activeCategory = "Todos";
 
 const productsEl = document.querySelector("#products");
