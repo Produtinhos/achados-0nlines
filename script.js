@@ -48,13 +48,13 @@ const products = [
     link: "https://mercadolivre.com.br/"
   },
   {
-    image: "https://down-br.img.susercontent.com/file/sg-11134201-7rcel-m65hf8tzwkwu8a@resize_w450_nl.webp",
-    category: "Cozinha",
-    name: "Kit de Conjunto Facas Coloridas/Pretos Tesoura Descascador Cozinha Gourmet 6 Peças",
-    description: "Kit:\n\n1 Faca do Chef: 29 cm de comprimento e 4,7 cm de largura\n1 Cutelo: 30 cm de comprimento e 3,5 cm de largura\n1 Faca de pão: 30cm de comprimento e 2,3 de largura\n1 Faca de fruta: 20cm de comprimento e 2 cm de largura\n1 Descascador: 13,5 cm de comprimento e 5,5cm de largura 1 Tesoura de comida.",
-    price: "R$ 23,90",
-    link: "https://s.shopee.com.br/8pksiXAFHn"
-  },
+  image: "https://down-br.img.susercontent.com/file/sg-11134201-7rcel-m65hf8tzwkwu8a@resize_w450_nl.webp",
+  category: "Cozinha",
+  name: "Kit de Facas para Cozinha 6 Peças com Tesoura e Descascador",
+  description: "Kit completo com 6 peças para facilitar o preparo dos alimentos. Contém: 1 Faca do Chef (29 cm de comprimento x 4,7 cm de largura), 1 Cutelo (30 cm x 3,5 cm), 1 Faca de Pão (30 cm x 2,3 cm), 1 Faca de Fruta (20 cm x 2 cm), 1 Descascador (13,5 cm x 5,5 cm) e 1 Tesoura para alimentos.",
+  price: "R$ 23,90",
+  link: "https://s.shopee.com.br/8pksiXAFHn"
+},
   {
   image: "https://down-zl-br.img.susercontent.com/br-11134207-7r98o-m5ar1tw0vjv4ec.webp",
   category: "Feminino",
