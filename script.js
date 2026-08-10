@@ -40,13 +40,18 @@ const products = [
     link: "https://mercadolivre.com.br/"
   },
   {
-    image: "https://down-zl-br.img.susercontent.com/br-11134207-7r98o-m5ar1tw0vjv4ec.webp",
-    category: "Feminino",
-    name: "Calça Pantalona Feminina Wide Leg Cintura Alta Tecido Crepe Dunas P ao GG Disponível no Linho",
-    description: "peça versátil e elegante, perfeita para diversas ocasiões. Com seu corte amplo e fluido, ela proporciona conforto e liberdade de movimento, ideal para o dia a dia ou eventos mais formais.",
-    price: "R$ 36,90",
-    link: "https://s.shopee.com.br/40fcoyYmWj"
-  },
+  image: "https://down-zl-br.img.susercontent.com/br-11134207-7r98o-m5ar1tw0vjv4ec.webp",
+
+  category: "Feminino",
+
+  name: "Calça Pantalona Feminina Wide Leg Cintura Alta Tecido Crepe Dunas P ao GG Disponível no Linho",
+
+  description: "Peça versátil e elegante, perfeita para diversas ocasiões. Com seu corte amplo e fluido, ela proporciona conforto e liberdade de movimento, ideal para o dia a dia ou eventos mais formais.",
+
+  price: "R$ 36,90",
+
+  link: "https://s.shopee.com.br/40fcoyYmWj"
+},
   {
     image: "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=85",
     category: "Masculino",
