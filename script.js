@@ -39,7 +39,14 @@ const products = [
   price: "R$ 65,00",
   link: "https://s.shopee.com.br/904IwHmf0j"
 },
-
+ {
+    image: "https://down-tx-br.img.susercontent.com/br-11134207-81ztc-mk01d3a5b9xc9b.webp",
+  category: "Cozinha",
+  name: "Porta Temperos Profissional Giratório Potes Vidro com Tampa Dosadora Condimentos Envio Imediato",
+  description: "-Organização eficiente,Praticidade giratória,Preservação da frescura,Design elegante,Versatilidade,Fácil limpeza,Durabilidade.",
+  price: "R$ 32,00",
+  link: "https://s.shopee.com.br/4VbtaVVGrE"
+},
   {
     image: "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=85",
     category: "Eletrônicos",
