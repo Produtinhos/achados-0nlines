@@ -16,7 +16,7 @@ const products = [
     link: "https://s.shopee.com.br/20uYMyNGgj"
   },
   {
-  image: "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m5ar1tw0vjv4ec@resize_w450_nl.webp",
+  image: "",
   category: "Casa",
   name: "Nome do produto",
   description: "Descrição curta do produto.",
@@ -41,7 +41,7 @@ const products = [
   },
   {
   image: "https://down-zl-br.img.susercontent.com/br-11134207-7r98o-m5ar1tw0vjv4ec.webp",
-  category: "Feminina",
+  category: "Feminino",
   name: "Calça Pantalona Feminina Wide Leg Cintura Alta Tecido Crepe Dunas P ao GG Disponível no Linho",
   description: "Peça versátil e elegante, perfeita para diversas ocasiões. Com seu corte amplo e fluido, ela proporciona conforto e liberdade de movimento, ideal para o dia a dia ou eventos mais formais.",
   price: "R$ 36,90",
@@ -57,7 +57,7 @@ const products = [
   }
 ];
 
-const categories = ["Todos", "Casa", "Eletrônicos", "Utilidades", "Masculino", "Feminina"];
+const categories = ["Todos", "Casa", "Eletrônicos", "Utilidades", "Masculino", "Feminino"];
 let activeCategory = "Todos";
 
 const productsEl = document.querySelector("#products");
