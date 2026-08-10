@@ -42,7 +42,7 @@ const products = [
   {
   image: "https://down-zl-br.img.susercontent.com/br-11134207-7r98o-m5ar1tw0vjv4ec.webp",
 
-  category: "Feminino",
+  category: "Feminina",
 
   name: "Calça Pantalona Feminina Wide Leg Cintura Alta Tecido Crepe Dunas P ao GG Disponível no Linho",
 
