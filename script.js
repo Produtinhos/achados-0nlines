@@ -60,7 +60,7 @@ const products = [
     category: "Eletrônicos",
     name: " Fones De Ouvido TWS Sleep Fone Sem Fio Bluetooth Display Led Hifi Estéreo Cancelamento De Ruído Esportivo",
     description: "Design compacto e confortável para aproveitar músicas e chamadas no dia a dia.",
-    price: "menos de R$ 30,00",
+    price: "R$ 20,00",
     link: "https://s.shopee.com.br/6Ak7aoxbyu"
   },
   {
