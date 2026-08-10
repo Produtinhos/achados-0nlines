@@ -16,6 +16,14 @@ const products = [
     link: "https://s.shopee.com.br/20uYMyNGgj"
   },
   {
+  image: "URL_DA_IMAGEM",
+  category: "Casa",
+  name: "Nome do produto",
+  description: "Descrição curta do produto.",
+  price: "R$ 00,00",
+  link: "LINK_DA_SHOPEE_OU_MERCADO_LIVRE"
+  },
+  {
     image: "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=85",
     category: "Eletrônicos",
     name: "Fone de Ouvido Sem Fio",
