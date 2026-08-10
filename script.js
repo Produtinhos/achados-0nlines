@@ -46,6 +46,14 @@ const products = [
     description: "Peça versátil para combinar com diferentes looks e usar no dia a dia.",
     price: "R$ 44,90",
     link: "https://shopee.com.br/"
+  },
+  {
+    image: "https://down-zl-br.img.susercontent.com/br-11134207-7r98o-m5ar1tw0vjv4ec.webp",
+    category: "Feminino",
+    name: "Calça Pantalona Feminina Wide Leg Cintura Alta Tecido Crepe Dunas P ao GG Disponível no Linho",
+    description: "peça versátil e elegante, perfeita para diversas ocasiões. Com seu corte amplo e fluido, ela proporciona conforto e liberdade de movimento, ideal para o dia a dia ou eventos mais formais.",
+    price: "R$ 36,90",
+    link: "https://s.shopee.com.br/40fcoyYmWj"
   }
 ];
 
