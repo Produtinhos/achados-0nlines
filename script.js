@@ -102,7 +102,16 @@ const products = [
     description: "Peça versátil para combinar com diferentes looks e usar no dia a dia.",
     price: "R$ 44,90",
     link: "https://shopee.com.br/"
-  }
+  },
+  {
+    image: "https://down-tx-br.img.susercontent.com/sg-11134201-824ij-mefom612h69td4.webp",
+  category: "Utilidades",
+  name: "PARAFUSADEIRA E FURADEIRA A BATERIA PF21B2 21V COM DUAS BATERIAS F02 4979 - FALASCA",
+  description: "A Parafusadeira e Furadeira a Bateria Falasca PF21B2 é uma ferramenta de uso geral projetada para tarefas de parafusamento, montagem, manutenção e perfuração em ambientes domésticos e profissionais. Opera com bateria recarregável de 21V e acompanha duas unidades, garantindo continuidade de uso sem necessidade de pausas para recarga.",
+  price: "R$ 113,00",
+  link: "https://s.shopee.com.br/50YABacJtp"
+}
+
 ];
 
 const categories = ["Todos", "Casa", "Cozinha", "Quarto", "Eletrônicos", "Utilidades", "Masculino", "Feminino"];
