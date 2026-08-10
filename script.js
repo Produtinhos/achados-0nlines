@@ -8,6 +8,14 @@ const products = [
     link: "https://shopee.com.br/"
   },
   {
+    image: "https://down-bs-br.img.susercontent.com/br-11134207-81z1k-mgoy0mulpl397b.webp",
+    category: "Quarto",
+    name: "Edredom Casal Queen Premium 3 Peças – Kit Completo com Fronhas e Cobre Leito",
+    description: "Contém: 01 Edredom Casal Queen 2,40m X 2,20m e 02 Fronhas 50cm X 70cm. Tecido: Microfibra 100% Poliéster. Enchimento: 100% Poliéster Manta 100.",
+    price: "R$ 66,99",
+    link: "https://s.shopee.com.br/1qb8LQiv5S"
+  },
+  {
     image: "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-lq97ra5vs0fbc7.webp",
     category: "Eletrônicos",
     name: "Carregador Portátil Pineng Power Bank 10.000mAh",
