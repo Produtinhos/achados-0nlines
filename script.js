@@ -48,6 +48,14 @@ const products = [
   link: "https://s.shopee.com.br/40fcoyYmWj"
 },
   {
+  image: "https://down-br.img.susercontent.com/file/br-11134207-820lz-mqpkmffnx0jle5.webp",
+  category: "Feminino",
+  name: "Calça Alfaiataria Feminina Pantalona Cintura Alta Look Elegante e Despojado Moda Casual para o Dia a Dia",
+  description: "Sofisticação e conforto em uma só peça! Nossa Pantalona em Alfaiataria Premium é a escolha perfeita para quem quer um look elegante, moderno e cheio de estilo.",
+  price: "R$ 39,99",
+  link: "https://s.shopee.com.br/5AraGV2qTF"
+},
+  {
     image: "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=85",
     category: "Masculino",
     name: "Camiseta Básica Confortável",
