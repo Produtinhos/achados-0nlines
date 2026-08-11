@@ -16,6 +16,14 @@ const products = [
     link: "https://s.shopee.com.br/1qb8LQiv5S"
   },
   {
+    image: "https://down-tx-br.img.susercontent.com/br-11134207-820lw-mrpukejvg45j1d.webp",
+  category: "Cozinha",
+  name: "Kit 3/6/10 Potes Herméticos Porta Condimentos para Cozinha Organização Premium",
+  description: "Organize sua cozinha com praticidade e mantenha seus condimentos e temperos sempre protegidos! Os potes herméticos de 400ml possuem excelente vedação, ajudando a conservar os alimentos por mais tempo e mantendo sua despensa organizada.",
+  price: "R$ 7,90",
+  link: "https://s.shopee.com.br/4fvL3zN8Cw"
+},
+  {
     image: "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-lq97ra5vs0fbc7.webp",
     category: "Eletrônicos",
     name: "Carregador Portátil Pineng Power Bank 10.000mAh",
