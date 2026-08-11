@@ -23,6 +23,14 @@ const products = [
   price: "R$ 7,90",
   link: "https://s.shopee.com.br/4fvL3zN8Cw"
 },
+ {
+    image: "https://down-tx-br.img.susercontent.com/sg-11134201-7rd48-lupf3z3a40mxf1.webp",
+  category: "Cozinha",
+  name: "Batedor Misturador Mixer Elétrico para Bebidas Leite Café Clara de Ovo 2 em 1",
+  description: "Este novo mixer multi-funções pode ser usado para fazer omelete, cremes, deixar o leite muito mais cremoso, misturar shakes e fazer deliciosas bebidas cremosas como cappuccino, café, chocolate quente, milk shake de maneira muito mais prática e rápida com carregamento USB e bateria interna de longa duração de uso.",
+  price: "R$ 18,99",
+  link: "https://s.shopee.com.br/2BE06hYv5b"
+},
   {
     image: "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-lq97ra5vs0fbc7.webp",
     category: "Eletrônicos",
