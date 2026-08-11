@@ -1,12 +1,12 @@
 const products = [
-  {
-    image: "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=900&q=85",
-    category: "Utilidades",
-    name: "Kit Organizador de Temperos",
-    description: "Organizador prático para deixar os temperos sempre à mão e manter a cozinha mais organizada.",
-    price: "R$ 39,90",
-    link: "https://shopee.com.br/"
-  },
+ {
+    image: "https://down-tx-br.img.susercontent.com/br-11134207-820lg-mlhp0g9hrh1je6.webp",
+  category: "Feminino",
+  name: "Shorts Saída de Praia Feminino Tricot Cos Alto Cordão Transpassado Moda Verão",
+  description: "Procurando a peça perfeita para arrasar no visual praiano ou em looks despojados e modernos? Nosso Shorts Saída de Praia Feminino em Tricot Rendado Estilo Crochê é tudo o que você precisa para se sentir linda e confortável!  ",
+  price: "R$ 27,70",
+  link: "https://s.shopee.com.br/AAGHcMv7SO"
+},
   {
     image: "https://down-bs-br.img.susercontent.com/br-11134207-81z1k-mgoy0mulpl397b.webp",
     category: "Quarto",
