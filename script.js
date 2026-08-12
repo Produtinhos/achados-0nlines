@@ -23,6 +23,14 @@ const products = [
     price: "R$ 25,99",
     link: "https://s.shopee.com.br/1qb8LQiv5S"
   },
+ {
+  image: "https://down-tx-br.img.susercontent.com/br-11134207-7r98o-mbfb2i620f39be.webp",
+  category: "Quarto",
+  name: "Lençol Protetor Ajustável Macio e Impermeável Avulso Para Colchão Berço Solteiro Casal Queen e King",
+  description: "Proporcionando uma proteção essencial para o seu colchão, o Protetor de Colchão Impermeável é um aliado fundamental para manter a higiene e prolongar a vida útil do seu colchão. Sua praticidade de uso se destaca com um design que inclui elástico em toda a volta, garantindo uma aplicação fácil.",
+  price: "R$ 19,95",
+  link: "https://s.shopee.com.br/30n8u2TwTC"
+},
   {
     image: "https://down-tx-br.img.susercontent.com/br-11134207-820lw-mrpukejvg45j1d.webp",
   category: "Cozinha",
