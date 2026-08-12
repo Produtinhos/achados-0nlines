@@ -24,6 +24,14 @@ const products = [
   link: "https://s.shopee.com.br/60QkUvb7Sr"
 },
  {
+  image: "https://down-tx-br.img.susercontent.com/br-11134207-81ztp-ml4ykoatrwuc2b.webp",
+  category: "Cozinha",
+  name: "Kit Potes Herméticos Organizador de Mantimentos Transparente Com Trava BPA Free",
+  description: "- Armazenar alimentos com segurança e frescor: Os potes herméticos vedam completamente, protegendo seus alimentos do ar, da luz e da umidade, preservando o sabor e a textura por mais tempo.\n- Organizar sua despensa e geladeira: Com design moderno e empilhável, os potes otimizam o espaço e facilitam a visualização dos seus alimentos.\n- Facilitar o dia a dia: O material PET é leve e resistente, ideal para o uso diário na cozinha.",
+  price: "R$ 39,90",
+  link: "https://s.shopee.com.br/20ubkhxGj4"
+},
+ {
   image: "https://down-tx-br.img.susercontent.com/sg-11134201-7reoo-m8uns1iu3kx370.webp",
   category: "Utilidades",
   name: "Bolsa Térmica ipermeavel De Grande Capacidade De Alta Qualidade ",
