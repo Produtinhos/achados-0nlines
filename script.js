@@ -292,7 +292,7 @@ const products = [
   category: "Utilidades",
   name: "Jogo de Chaves Combinadas Boca e Estrela 6-19mm 6 Peças em Aço Carbono com Estojo Organizador - Titanium Platina",
   description: "O Jogo de Chaves Combinadas Titanium Platina Kit 6 Peças foi desenvolvido para oferecer resistência, precisão e praticidade em serviços de manutenção, montagem e reparos em geral. Fabricadas em aço carbono com tratamento térmico, as chaves proporcionam excelente durabilidade, alta resistência ao desgaste e encaixe preciso, garantindo mais segurança e eficiência durante o trabalho.",
-  price: "R$ 00,00",
+  price: "R$ 24,90",
   link: "https://meli.la/1e2czvL"
 },
   {
