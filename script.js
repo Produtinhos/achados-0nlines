@@ -8,6 +8,14 @@ const products = [
   link: "https://s.shopee.com.br/AAGHcMv7SO"
 },
  {
+  image: "https://down-tx-br.img.susercontent.com/br-11134207-7r98o-m5z5vkvek66o30.webp",
+  category: "Casa" "Quarto",
+  name: "Mini Umidificador De Grande Capacidade Para Casa Escritório Promoção",
+  description: "Este umidificador de ar portátil é muito bem projetado, muito conveniente e prático. Não espere, chegue uma casa!",
+  price: "R$ 17,59",
+  link: "https://s.shopee.com.br/BSxXXVknI"
+},
+ {
   image: "https://down-tx-br.img.susercontent.com/sg-11134201-7reoo-m8uns1iu3kx370.webp",
   category: "Utilidades",
   name: "Bolsa Térmica ipermeavel De Grande Capacidade De Alta Qualidade ",
