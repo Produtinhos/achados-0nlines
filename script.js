@@ -116,16 +116,16 @@ const products = [
   category: "Feminino",
   name: "Calça Alfaiataria Feminina Pantalona Cintura Alta Look Elegante e Despojado Moda Casual para o Dia a Dia",
   description: "Sofisticação e conforto em uma só peça! Nossa Pantalona em Alfaiataria Premium é a escolha perfeita para quem quer um look elegante, moderno e cheio de estilo.",
-  price: "R$ 39,99",
+  price: "R$ 25,90",
   link: "https://s.shopee.com.br/5AraGV2qTF"
 },
   {
-    image: "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=85",
-    category: "Masculino",
-    name: "Camiseta Básica Confortável",
-    description: "Peça versátil para combinar com diferentes looks e usar no dia a dia.",
+    image: "https://down-tx-br.img.susercontent.com/br-11134207-820m9-mmv8s9y8c4xt8d.webp",
+    category: "Casa",
+    name: "Quadros Decorativos Mosaico Leão Rei Nunca Foi Sorte Sempre Foi Deus 5 Peças Sala Quarto",
+    description: "Quadro De Parede DE DECORAÇAO DE INTERIORES SALA,QUARTO ,ESCRITORIOS.\nTela em Chassi De Madeira MDF (reflorestada, tratada e imunizada)",
     price: "R$ 44,90",
-    link: "https://shopee.com.br/"
+    link: "https://s.shopee.com.br/6pzrRwLtQd"
   },
   {
     image: "https://down-tx-br.img.susercontent.com/sg-11134201-824ij-mefom612h69td4.webp",
