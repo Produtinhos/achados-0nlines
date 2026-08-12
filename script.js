@@ -9,7 +9,7 @@ const products = [
 },
  {
   image: "https://down-tx-br.img.susercontent.com/br-11134207-7r98o-m5z5vkvek66o30.webp",
-  category: "Casa" "Quarto",
+  category: "Quarto",
   name: "Mini Umidificador De Grande Capacidade Para Casa Escritório Promoção",
   description: "Este umidificador de ar portátil é muito bem projetado, muito conveniente e prático. Não espere, chegue uma casa!",
   price: "R$ 17,59",
