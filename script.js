@@ -31,6 +31,14 @@ const products = [
   price: "R$ 49,49",
   link: "https://s.shopee.com.br/4VbwkxGwZl"
 },
+ {
+  image: "https://http2.mlstatic.com/D_Q_NP_628474-MLA115531206205_082026-F.webp",
+  category: "Quarto",
+  name: "Jogo Lençol Casal 3pç 400 Fios Hipercal Conforto Macio Cor Cinza Desenho do tecido Liso",
+  description: "O conjunto proporciona uma experiência de sono com maciez e elegância. O tecido de alta qualidade oferece conforto e durabilidade, com ajuste perfeito para colchão tipo box, garantindo sensação de frescor.",
+  price: "R$ 45,99",
+  link: "https://meli.la/17em2qM"
+},
   {
   image: "https://down-tx-br.img.susercontent.com/br-11134207-81z1k-mfes7idiiy9wa2.webp",
   category: "Feminino",
