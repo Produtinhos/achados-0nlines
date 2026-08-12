@@ -104,6 +104,14 @@ const products = [
   link: "https://s.shopee.com.br/904M3RJwg1"
 },
   {
+  image: "https://http2.mlstatic.com/D_Q_NP_662543-MLA99985670637_112025-F.webp",
+  category: "Eletrônicos",
+  name: "Microfone Lapela Mymotors Preto Sem Fio Tipo C",
+  description: "O queridinho dos criadores de conteúdo, grave para o TikTok, Youtube, Instagram e diversas outras plataformas, o microfone de lapela sem fio da Mymotors aumenta a qualidade da sua gravação, entrevista, podecast e outros.\nCompatível com qualquer dispositivo com entrada Tipo C (iPhones 15, 16 e 17, iPads e todos os Androids)",
+  price: "R$ 187,00",
+  link: "https://meli.la/1Ejt1te"
+},
+  {
     image: "https://down-bs-br.img.susercontent.com/br-11134207-81z1k-mgoy0mulpl397b.webp",
     category: "Quarto",
     name: "Edredom Casal Queen Premium 3 Peças – Kit Completo com Fronhas e Cobre Leito",
