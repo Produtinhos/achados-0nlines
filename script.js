@@ -15,6 +15,22 @@ const products = [
   price: "R$ 25,90",
   link: "https://s.shopee.com.br/AAGJQxV7Xb"
 },
+ {
+  image: "https://down-tx-br.img.susercontent.com/br-11134207-7r98o-lvt18z4acmfyfa.webp",
+  category: "Casa",
+  name: "Suporte Shampoo Banheiro Adesivo Sem Furo Antiferrugem Organizador Parede Prateleira Multiuso",
+  description: "🖤 Suporte para Shampoo Antiferrugem – Organização Premium Sem Furo,\nTransforme seu banheiro com um organizador moderno, resistente e 100% funcional.",
+  price: "R$ 17,94",
+  link: "https://s.shopee.com.br/7fYySwUMNB"
+},
+ {
+  image: "https://down-tx-br.img.susercontent.com/br-11134207-81z1k-miii9y1t9hxf3d.webp",
+  category: "Cozinha",
+  name: "Fatiador Profissional Multifuncional 16 em 1 de Aço Inoxidável - Ideal para Vegetais, Frutas e Legumes",
+  description: "O fatiador vegetal é equipado com lâminas afiadas e deve ser operado com cuidado extremo para não permitir que as crianças o fatiador vegetal o mesmo esteja equipado com lâminas afiadas e deve ser operado com cuidado extremo para não permitir que as crianças o usem sem supervisão adequada.",
+  price: "R$ 36,99",
+  link: "https://s.shopee.com.br/904M3RJwg1"
+},
   {
     image: "https://down-bs-br.img.susercontent.com/br-11134207-81z1k-mgoy0mulpl397b.webp",
     category: "Quarto",
