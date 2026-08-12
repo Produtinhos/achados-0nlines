@@ -183,6 +183,14 @@ const products = [
     price: "R$ 25,90",
     link: "https://s.shopee.com.br/6pzrRwLtQd"
   },
+ {
+  image: "https://down-tx-br.img.susercontent.com/br-11134207-820lv-mmnzn8sx9xqc09.webp",
+  category: "Utilidades",
+  name: "46 Peças Verde Kit Chaves Jogo Catraca Reversível Soquetes Maleta Promoção",
+  description: " O soquete usa AÇO TITANIUM vanádio de alta qualidade 50 bv30 formação de prensa a frio, torque 50% maior que o de aço carbono, protegido conta a ferrugem.\nA cabeça do lote adota materiais CR-V, para que a peça tenha uma resistência mais alta.\nChave de catraca de giro rápido (ajuste positivo e negativo)",
+  price: "R$ 28,99",
+  link: "https://s.shopee.com.br/gPE9a1iAr"
+},
   {
     image: "https://down-tx-br.img.susercontent.com/sg-11134201-824ij-mefom612h69td4.webp",
   category: "Utilidades",
