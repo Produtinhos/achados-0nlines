@@ -10,10 +10,10 @@ const products = [
  {
   image: "https://down-tx-br.img.susercontent.com/sg-11134201-7reoo-m8uns1iu3kx370.webp",
   category: "Utilidades",
-  name: "Bolsa Térmica De Grande Capacidade De Alta Qualidade ",
-  description: "Descrição curta do produto.",
+  name: "Bolsa Térmica ipermeavel De Grande Capacidade De Alta Qualidade ",
+  description: "Bolsa térmica em tecido Oxford resistente e impermeável, com isolamento térmico para conservar alimentos e bebidas. Possui zíper duplo, alças de mão e ombro, bolsos para itens essenciais e design dobrável, ideal para viagens, piqueniques, camping e uso no dia a dia.",
   price: "R$ 25,90",
-  link: "https://s.shopee.com.br/LmNiJGlYf"
+  link: "https://s.shopee.com.br/AAGJQxV7Xb"
 },
   {
     image: "https://down-bs-br.img.susercontent.com/br-11134207-81z1k-mgoy0mulpl397b.webp",
