@@ -15,6 +15,22 @@ const products = [
   price: "R$ 47,99",
   link: "https://s.shopee.com.br/6VN17HGnPH"
 },
+  {
+  image: "https://down-tx-br.img.susercontent.com/br-11134207-81z1k-mfes7idiiy9wa2.webp",
+  category: "Feminino",
+  name: "KIT 3 Blusas Feminina Manga Longa Cacharrel Confortável Básico Gola Alta",
+  description: "Tecido suede flanelado premium: extremamente macio, com toque aveludado que traz conforto absoluto ao vestir.\n\nComposição: 94% poliéster e 6% elastano, garantindo elasticidade na medida certa para ajuste perfeito ao corpo.\nModelagem justa que valoriza a silhueta, ideal para usar sozinha ou como segunda pele em dias mais frios.\nGola alta para maior proteção térmica, deixando seu look elegante e quentinho.",
+  price: "R$ 49,97",
+  link: "https://s.shopee.com.br/8V85VGf6Sf"
+},
+ {
+  image: "https://down-tx-br.img.susercontent.com/br-11134207-820l9-mn5ihgj80sg4dc.webp",
+  category: "Feminino",
+  name: "Calça FLER BORDADA Texana Montaria Jeans Grosso com Lycra Rodeio ",
+  description: "- Essa calça flare feminina é o destaque que faltava no seu guarda-roupa! Com bordado country de cavalo, modelagem flare e cintura alta, ela valoriza o corpo e traz toda a identidade do estilo sertanejo moderno.",
+  price: "R$ 59,90",
+  link: "https://s.shopee.com.br/gPEAjGtHS"
+},
  {
   image: "https://down-tx-br.img.susercontent.com/br-11134207-7r98o-m5z5vkvek66o30.webp",
   category: "Quarto",
