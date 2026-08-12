@@ -112,6 +112,14 @@ const products = [
     link: "https://s.shopee.com.br/1qb8LQiv5S"
   },
  {
+  image: "https://http2.mlstatic.com/D_Q_NP_985823-MLA113683572316_072026-F.webp",
+  category: "Eletrônicos",
+  name: "Projetor Smart Portátil Full Hd 4k Android 11 Wi-fi Bluetooth Mini Projetor Home Theater Cinema Em Casa Imagem Nítida Som Potente Compatível Com Diversos Dispositivos Branco 127/220v",
+  description: "Transforme qualquer ambiente em um verdadeiro cinema com o Mini Projetor Smart Portátil. Compacto, moderno e fácil de transportar, ele oferece uma experiência completa para assistir filmes, séries, esportes, apresentações e jogar em uma tela muito maior que uma televisão convencional.",
+  price: "R$ 187,00",
+  link: "https://meli.la/2zQHi1B"
+},
+ {
   image: "https://down-tx-br.img.susercontent.com/br-11134207-81ztc-mjps1vawpp8m32.webp",
   category: "Quarto",
   name: "Kit 4 capas de almofadas decorativas 45x45 - moderna",
