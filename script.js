@@ -16,6 +16,14 @@ const products = [
   link: "https://s.shopee.com.br/BSxXXVknI"
 },
  {
+  image: "https://down-tx-br.img.susercontent.com/br-11134207-7r98o-mbf8xwb4y0dh79.webp",
+  category: "Cozinha",
+  name: "Seladora a Vácuo Doméstica – Bivolt Vedação Hermética | Para Conservar Alimentos | Com 10 Sacos - SH",
+  description: "✔️ Reduz o desperdício e prolonga a validade dos alimentos<br>✔️ Organização prática no freezer e na geladeira<br>✔️ Mais economia e segurança alimentar no dia a dia<br>✔️ Fácil de usar: 1 botão e pronto! 👆🏼",
+  price: "R$ 39,99",
+  link: "https://s.shopee.com.br/60QkUvb7Sr"
+},
+ {
   image: "https://down-tx-br.img.susercontent.com/sg-11134201-7reoo-m8uns1iu3kx370.webp",
   category: "Utilidades",
   name: "Bolsa Térmica ipermeavel De Grande Capacidade De Alta Qualidade ",
