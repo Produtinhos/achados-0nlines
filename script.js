@@ -56,6 +56,14 @@ const products = [
     link: "https://s.shopee.com.br/1qb8LQiv5S"
   },
  {
+  image: "https://down-tx-br.img.susercontent.com/br-11134207-81ztc-mjps1vawpp8m32.webp",
+  category: "Quarto",
+  name: "Kit 4 capas de almofadas decorativas 45x45 - moderna",
+  description: "Descrição produto:\n por ser um produto artesanal, precisamos de um prazo para envio\n Tecido: Microfibra\n Tamanho: 45x45\n acabamento: zíper invisível\n Impressão digital de qualidade\n verso que combine com a estampa",
+  price: "R$ 35,94",
+  link: "https://s.shopee.com.br/7AchtvszUH"
+},
+ {
   image: "https://down-tx-br.img.susercontent.com/br-11134207-7r98o-mbfb2i620f39be.webp",
   category: "Quarto",
   name: "Lençol Protetor Ajustável Macio e Impermeável Avulso Para Colchão Berço Solteiro Casal Queen e King",
