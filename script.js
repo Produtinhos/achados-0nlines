@@ -32,6 +32,14 @@ const products = [
   link: "https://s.shopee.com.br/8V85VGf6Sf"
 },
  {
+  image: "https://down-tx-br.img.susercontent.com/br-11134207-820ll-mopyaw5l5rlv8d.webp",
+  category: "Feminino",
+  name: "Conjunto2 UM body Manga Longa Suplex + SHORT Marrom Courinho São João Moda Blogueira 2027",
+  description: "Cores super vivas, tecido maravilhoso\n\nbory Tamanho único - veste do 36 até 42 (Se ajusta ao corpo)\n\nTecido - Fluit (Composição, POLIAMIDA, MICROFIBRAS E LYCRA)",
+  price: "R$ 80,00",
+  link: "https://s.shopee.com.br/4qEn93fnh9"
+},
+ {
   image: "https://down-tx-br.img.susercontent.com/br-11134207-820l9-mn5ihgj80sg4dc.webp",
   category: "Feminino",
   name: "Calça FLER BORDADA Texana Montaria Jeans Grosso com Lycra Rodeio ",
