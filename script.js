@@ -7,12 +7,20 @@ const products = [
   price: "R$ 27,70",
   link: "https://s.shopee.com.br/AAGHcMv7SO"
 },
+ {
+  image: "https://down-tx-br.img.susercontent.com/sg-11134201-7reoo-m8uns1iu3kx370.webp",
+  category: "Utilidades",
+  name: "Bolsa Térmica De Grande Capacidade De Alta Qualidade ",
+  description: "Descrição curta do produto.",
+  price: "R$ 25,90",
+  link: "https://s.shopee.com.br/LmNiJGlYf"
+},
   {
     image: "https://down-bs-br.img.susercontent.com/br-11134207-81z1k-mgoy0mulpl397b.webp",
     category: "Quarto",
     name: "Edredom Casal Queen Premium 3 Peças – Kit Completo com Fronhas e Cobre Leito",
     description: "Contém: 01 Edredom Casal Queen 2,40m X 2,20m e 02 Fronhas 50cm X 70cm. Tecido: Microfibra 100% Poliéster. Enchimento: 100% Poliéster Manta 100.",
-    price: "R$ 56,99",
+    price: "R$ 25,99",
     link: "https://s.shopee.com.br/1qb8LQiv5S"
   },
   {
