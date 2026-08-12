@@ -264,6 +264,14 @@ const products = [
     link: "https://s.shopee.com.br/6pzrRwLtQd"
   },
  {
+  image: "https://http2.mlstatic.com/D_Q_NP_970889-MLB111017990232_052026-F-parafusadeira-furadeira-de-impacto-2-baterias--kit-46-pecas.webp",
+  category: "Utilidades",
+  name: "Parafusadeira Furadeira De Impacto 2 Baterias + Kit 46 Peças",
+  description: " A Parafusadeira/Furadeira MyMotors 48V é uma excelente escolha para quem busca força, durabilidade e praticidade em diferentes tipos de trabalho. Indicada tanto para uso profissional quanto doméstico, conta com 2 baterias de longa duração, luz LED integrada e controle duplo de velocidade, proporcionando ótimo desempenho em madeira, metal, plástico e alvenaria leve.",
+  price: "R$ 218,06",
+  link: "https://meli.la/2eqiwfk"
+},
+ {
   image: "https://down-tx-br.img.susercontent.com/br-11134207-820lv-mmnzn8sx9xqc09.webp",
   category: "Utilidades",
   name: "46 Peças Verde Kit Chaves Jogo Catraca Reversível Soquetes Maleta Promoção",
