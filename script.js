@@ -36,7 +36,7 @@ const products = [
   category: "Feminino",
   name: "Conjunto2 UM body Manga Longa Suplex + SHORT Marrom Courinho São João Moda Blogueira 2027",
   description: "Cores super vivas, tecido maravilhoso\n\nbory Tamanho único - veste do 36 até 42 (Se ajusta ao corpo)\n\nTecido - Fluit (Composição, POLIAMIDA, MICROFIBRAS E LYCRA)",
-  price: "R$ 80,00",
+  price: "R$ 66,00",
   link: "https://s.shopee.com.br/4qEn93fnh9"
 },
  {
