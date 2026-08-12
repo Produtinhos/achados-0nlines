@@ -15,6 +15,14 @@ const products = [
   price: "R$ 47,99",
   link: "https://s.shopee.com.br/6VN17HGnPH"
 },
+ {
+  image: "https://down-tx-br.img.susercontent.com/br-11134207-820lz-moftar7ni39id6.webp",
+  category: "Feminino",
+  name: "Kit 3 Blusas Feminina Muscle Tee Moderna Casual 100% Algodão",
+  description: "Se você está em busca de uma blusa feminina confortável e estilosa, as nossas blusas modelo muscle tee são a escolha ideal.\nCom um corte moderno e sofisticado, essa peça é perfeita para mulheres que valorizam um visual bem alinhado e elegante em qualquer ocasião.\n\nDisponível em diversas cores, permite que você escolha aquela que melhor reflete sua personalidade e estilo.",
+  price: "R$ 45,98",
+  link: "https://s.shopee.com.br/9KhCV0WTR1"
+},
   {
   image: "https://down-tx-br.img.susercontent.com/br-11134207-81z1k-mfes7idiiy9wa2.webp",
   category: "Feminino",
