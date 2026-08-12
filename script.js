@@ -132,7 +132,7 @@ const products = [
     category: "Casa",
     name: "Quadros Decorativos Mosaico Leão Rei Nunca Foi Sorte Sempre Foi Deus 5 Peças Sala Quarto",
     description: "Quadro De Parede DE DECORAÇAO DE INTERIORES SALA,QUARTO ,ESCRITORIOS.\nTela em Chassi De Madeira MDF (reflorestada, tratada e imunizada)",
-    price: "R$ 44,90",
+    price: "R$ 25,90",
     link: "https://s.shopee.com.br/6pzrRwLtQd"
   },
   {
