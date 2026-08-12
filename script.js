@@ -23,6 +23,14 @@ const products = [
   price: "R$ 45,98",
   link: "https://s.shopee.com.br/9KhCV0WTR1"
 },
+ {
+  image: "https://down-tx-br.img.susercontent.com/sg-11134201-22100-1gri4yowh7ivda.webp",
+  category: "Feminino",
+  name: "KIT 3 Cropped Gola Alta Canelado Sem Manga Verão Praia",
+  description: "O tecido malha canelada une o conforto da malha com o charme do canelado! Esse tecido é uma malha com alta elasticidade e qualidade. Possui um brilho acetinado e ótimo caimento.",
+  price: "R$ 49,49",
+  link: "https://s.shopee.com.br/4VbwkxGwZl"
+},
   {
   image: "https://down-tx-br.img.susercontent.com/br-11134207-81z1k-mfes7idiiy9wa2.webp",
   category: "Feminino",
