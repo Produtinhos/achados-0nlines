@@ -8,6 +8,14 @@ const products = [
   link: "https://s.shopee.com.br/AAGHcMv7SO"
 },
  {
+  image: "https://down-tx-br.img.susercontent.com/br-11134201-820m6-mqyqfucnv7r9eb.webp",
+  category: "Feminino",
+  name: "Kit 2 Shorts Alfaiataria Feminino Cintura Alta com Pregas Elegantes",
+  description: "O kit oferece combinações perfeitas para diversas ocasiões — desde looks casuais até produções mais sofisticadas. O tecido encorpado garante ótimo caimento, resistência e conforto durante todo o dia.",
+  price: "R$ 47,99",
+  link: "https://s.shopee.com.br/6VN17HGnPH"
+},
+ {
   image: "https://down-tx-br.img.susercontent.com/br-11134207-7r98o-m5z5vkvek66o30.webp",
   category: "Quarto",
   name: "Mini Umidificador De Grande Capacidade Para Casa Escritório Promoção",
